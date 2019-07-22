@@ -5,4 +5,4 @@ Incluye:
   Enunciado
   Set de datos original
   Set de datos modificado (solo una columna con los datos de temperatura)
-  Solución: (Tarea-1.ipynb)
+  Solución: (SolucionTarea1.ipynb)
