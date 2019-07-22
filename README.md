@@ -2,7 +2,8 @@
 Curso Aprendizaje Automático - Tarea1: Preprocesado, Normalización y Estandarización
 
 Incluye:
-  Enunciado
-  Set de datos original
-  Set de datos modificado (solo una columna con los datos de temperatura)
-  Solución: (SolucionTarea1.ipynb)
+  1. Enunciado
+  2. Set de datos original
+  3. Set de datos modificado (solo una columna con los datos de temperatura)
+  4. Solución: (SolucionTarea1.ipynb)
+  5. Cálculos "manuales" en excel para validar los resultados
